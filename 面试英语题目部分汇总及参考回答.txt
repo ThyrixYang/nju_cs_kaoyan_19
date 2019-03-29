@@ -1,0 +1,49 @@
+面试之英语
+口语：
+1. 最喜欢的课程是什么？介绍下具体了解的内容？为什么？(暂定)
+My favorite lesson is computer network.Because compared with the other professional lessons,computer network is easier to understand and applied more widely,so it attracts me.
+In this lesson, I have learn some basic knowledge about computer network,i have know the basic model of network,and...learn how to make a net wire.
+1.为什么报考南京大学？
+There are my reasons.
+Firstly, I have spent four years to get my undergraduate degree in chuzhou which is near nanjing.
+So I searched for knowledges about nanjing when I was in my college. Then I loved the city for its history and culture.
+Secondly,when I determined to pursue the postgraduate study, I came to nanjing university and was moved by its campus and academic atmosphere. It is my view that if I can study in this university ,my life would be a major blessing.
+Lastly ,when I understood nju’s school motto, it became my personal rule for the rest of my life.
+That ‘s all ,thank you .
+3.对南京的印象
+Thanks for your question.In my part,for one thing ,Nanjing has its unique charm due to its long history.Nanjing is a city which has rich cultural content.For example, nanjing was called jiangningfu in the south song dynasty and was a capital of some Dynasties.For another thing, the local people here are kind,and the scenery here are beautiful and full of cultural atmosphere.that’s all,thank you.
+ 
+4. 介绍下做过的项目
+Thank you for your question .During the undergraduate period, I took part in a compitition called shuangbaidasai in anhui province .My project was about a IoT alarm which was put in a car. When a kid cannot breathe and is very hot due to increased concerntrations of carbon dioxide  in a car and his or her parents who forget their child  go out, the alarm would be given. At the same time, it would send messages to the kid’s parents.
+This is my project. I know that I have a little experience in project.but i work hard and learn quickly, i am willing to follow my tutor to study and practice.I believe during the next three years ,i am certain to be a qualified graduate student.that’s all .thank you.
+5. 未来打算研究的方向是什么？具体介绍下所了解的内容？为什么？如何做？
+6. 如何安装一个操作系统
+7. 描述本科的大学生活？有什么收获？
+I think that I can use a word to describe my college life. That is expiration. I’ve tried many ways of life and finally set my goal. I ‘ve learned lots of things from my college life ,for example, I ‘ve learned what I should be .I ‘ve known how to pursue the meaning of my life.   
+8. 最喜欢的业余爱好是什么？为什么？
+My fevorite hobby is playing basketball.Whenever I have free time ,I would play basketball with my friend. But I don’t like watch games in that as far as my concerned ,watching games wastes time.my purpose of playing basketball is body buildings.I also like the feeling of shooting a ball through a hoop.
+9. 最喜欢的网络应用是什么？具体介绍下？为什么？
+10. 最喜欢的一项体育运动是什么？
+My fevorite sport is playing basketball.Whenever I have free time ,I would play basketball with my friend. But I don’t like watch games in that as far as my concerned ,watching games wastes time.my purpose of playing basketball is body buildings.I also like the feeling of shooting a ball through a hoop.
+ 
+11. 最喜欢的一部电影是什么？介绍下电影中讲的内容？为什么？
+One of my fevorite movies is around the world in eighty days.This is a science fiction movie which tell me a exciting story about an English gentleman who makes bet with his clubmates and managers that he can travel around the world in eighty days. It also gives me a vivid desciption of the many diffculties and incidents which happen in his journey.
+12. 谈谈好莱坞电影和中国电影有什么不同的地方？更喜欢哪个？为什么？
+13. 最喜欢的编程语言是什么？介绍下它的特点？为什么？
+14. 最喜欢的搜索引擎是什么？介绍下它的特点？为什么？
+15. 根据自己的了解谈谈什么是做研究？研究人员应当具备什么样的素质？
+16. 用英语说下群（离散数学中的）的概念
+17. 用英语说下你最失败/伤心的经历
+I failed in my first postgraduate entrance examination,which made me realize the importance of focus ,methods and schedule.i didn’t know wether I was afraid of failure,and wether I would go on after failure.After I failed , I knew that I wasn’t afraid of failure ,and I would persist until I succeed.that’s all.thank you
+18. Can you describe the process of HTTP?
+HTTP is the abbreviations of HyperText Transfer Protocol.when browsing a web page,the URL entered in the browser address bar always starts with http. HTTP defines how informations is formatted,how it is transmitted,and how the server and client respond to various commands.
+19. Can you talk about a movie star?
+20. 用英语描述一下 ipad
+21. 用英语说下堆排序的过程
+ first ,build a max heap from the input data. 
+second,At this point, the largest item is stored at the root of the heap. Replacing it with the last item of the heap followed by reducing the size of heap by 1. Finally, heapify the root of tree.
+ third,Repeat above steps while size of heap is greater than 1.
+22. 用英语描述下二分查找
+If the value to find is less than the value being checked, then the search must continue in all values less than the current one. Likewise, if the value to find is greater than the checked value, the search must continue in all values greater than the current one. And of course, if the value matches the one for which you’re searching, then the search ends
+翻译：
+给出一段文章（跟计算机专业有关的一些论文里的某一段），先读出来，然后翻译
